@@ -7,7 +7,7 @@ import yaml
 import boto3
 
 
-from src.constant import *
+from src.constants import *
 from src.exception import CustomException
 from src.logger import logging
 
